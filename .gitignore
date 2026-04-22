@@ -1,0 +1,36 @@
+# =========================
+# 📚 Material del curso (NO subir)
+# =========================
+material_curso/
+
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales (para mas adelante)
+venv/
+.env/
+
+# =========================
+# 🧠 Jupyter Notebooks (opcional)
+# =========================
+# Para subir Notebooks simplemente COMENTAR la linea de abajo
+*.ipynb
+
+# =========================
+# 🖥️ VS Code
+# =========================
+.vscode/
+
+# =========================
+# 📦 Sistema operativo
+# =========================
+# Windows
+Thumbs.db
+
+# Mac (por las dudas)
+.DS_Store
