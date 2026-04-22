@@ -1,0 +1,12 @@
+🔹 Bordes facheros para las tarjetas
+
+| Símbolo | Nombre / Uso               | Alt (Windows) | Unicode  |
+| ------- | -------------------------- | ------------- | -------- |
+| ╔       | Esquina superior izquierda | Alt + 201     | `\u2554` |
+| ╗       | Esquina superior derecha   | Alt + 187     | `\u2557` |
+| ╚       | Esquina inferior izquierda | Alt + 200     | `\u255A` |
+| ╝       | Esquina inferior derecha   | Alt + 188     | `\u255D` |
+| ║       | Borde vertical             | Alt + 186     | `\u2551` |
+| ═       | Borde horizontal           | Alt + 205     | `\u2550` |
+
+
