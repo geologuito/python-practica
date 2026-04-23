@@ -1,21 +1,8 @@
 """
-📌 Uso de f-strings en este archivo
+Uso de f-strings para formatear la tarjeta.
 
-Se utilizan f-strings para alinear y formatear el texto dentro de la tarjeta.
-
-🔹 Sintaxis:
-    f"{valor:formato}"
-🔹 Componentes:
-    - valor: variable o expresión (nombre, edad, etc.)
-    - :     separa el valor del formato
-    - formato: define alineación, ancho, etc.
-🔹 Ejemplos usados:
-    {texto:<n}  → alinear a la izquierda
-    {texto:^n}  → centrar texto
-
-🔗 Recursos:
-https://www.w3schools.com/python/python_strings_format.asp
-https://www.w3schools.com/python/python_string_formatting.asp
+📌 Ver guía completa:
+guias/guia_fstrings.md
 """
 
 # =========================
