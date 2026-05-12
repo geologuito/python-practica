@@ -87,8 +87,8 @@ El aprendizaje se desarrolla de forma progresiva:
 * [x] Clase 03 — Condicionales I
 * [x] Clase 04 — Condicionales II
 * [x] Clase 05 — While
-* [ ] Clase 06 — For
-* [ ] Clase 07 — Listas
+* [x] Clase 06 — For
+* [x] Clase 07 — Listas
 * [ ] Clase 08 — Diccionarios
 * [ ] Clase 09 — Funciones I
 * [ ] Clase 10 — Funciones II
