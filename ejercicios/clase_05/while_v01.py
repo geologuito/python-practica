@@ -16,3 +16,30 @@ Para escribir un programa que:
 
 💡 Consejo: podés usar una lista para guardar los ingresos si querés, aunque no es obligatorio.
 """
+
+# Variables
+mes = 1
+suma = 0
+
+while mes <= 6:
+    # esto es mejorable porque se puede romper si esta vacio o si ingreso letras
+    ingreso = int(input(f"ingreso del mes {mes}: "))
+
+    if ingreso < 0:
+        print(f"Error: Formato invalido")
+        # debug
+        # print(f"Ingreso: {ingreso}")
+        # print(f"Suma:{suma}")
+        continue
+
+    suma += ingreso
+    # debug
+    # print(f"Suma: {suma}")
+    mes += 1
+
+promedio = suma / 6
+print("Resumen:")
+print("-----------------------------")
+print(f"Total acumulado en 6 meses: ${suma}")
+print(f"Promedio: ${promedio:.2f}")
+print("-----------------------------")
