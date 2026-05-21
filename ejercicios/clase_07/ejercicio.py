@@ -28,8 +28,8 @@ print(
 # ========================================================
 
 while True:
-    # limpio, formateo el dato y lo guardo en una variable
-    nombre = input("Nombre: ").strip().title()
+    # limpio el dato y lo guardo en una variable
+    nombre = input("Nombre: ").strip()
 
     # valido que nombre no esté vacío
     if nombre == "":
@@ -44,8 +44,8 @@ while True:
         print("-------------------------")
         break
 
-    # guardamos el nombre en la lista
-    nombres.append(nombre)
+    # formateo el nombre y lo guardo en la lista
+    nombres.append(nombre.title())
 
     # debug
     # print(nombres)
