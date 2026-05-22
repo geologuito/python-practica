@@ -10,7 +10,7 @@ de los productos y los valores sean sus precios.
 # ====================
 # definimos variables
 # ====================
-productos = {}
+productos = {}  # ej --> "pera" : 100
 continuar = True
 
 # loop para cargar productos
